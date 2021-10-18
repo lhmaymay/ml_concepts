@@ -3,4 +3,23 @@ https://elitedatascience.com/overfitting-in-machine-learning
 model doesn’t generalize well from our training data to unseen data.
 
 Signal: In predictive modeling, you can think of the “signal” as the true underlying pattern that you wish to learn from the data.
-Noise:
+Noise:“Noise,” on the other hand, refers to the irrelevant information or randomness in a dataset.
+
+data quality: clean and relevant, completeness and correctness
+If the algorithm is too complex or flexible (e.g. it has too many input features or it’s not properly regularized), it can end up “memorizing the noise” instead of finding the signal.
+
+
+Both bias and variance are forms of prediction error in machine learning.
+
+If our model does much better on the training set than on the test set, then we’re likely overfitting.
+
+Another tip is to start with a very simple model to serve as a benchmark.
+
+Then, as you try more complex algorithms, you’ll have a reference point to see if the additional complexity is worth it.
+
+This is the Occam’s razor test. If two models have comparable performance, then you should usually pick the simpler one.
+
+How to Prevent Overfitting
+Cross-validation
+
+Cross-validation is a powerful preventative measure against overfitting.
