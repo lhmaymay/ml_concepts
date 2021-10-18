@@ -20,6 +20,18 @@ Then, as you try more complex algorithms, you’ll have a reference point to see
 This is the Occam’s razor test. If two models have comparable performance, then you should usually pick the simpler one.
 
 How to Prevent Overfitting
-Cross-validation
+1:Cross-validation
 
 Cross-validation is a powerful preventative measure against overfitting.
+Using F1 score metrics
+
+2: add more samples
+
+3: remove some features
+
+4: early stopping
+
+5: regularization 
+
+6: ensemble , bagging vs boosting
+
