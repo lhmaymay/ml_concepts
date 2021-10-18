@@ -1,1 +1,4 @@
 https://medium.com/analytics-vidhya/how-batch-normalization-and-relu-solve-vanishing-gradients-3f1a8ace1c88
+
+
+ReLU: ReLU (Rectified Linear Unit) is defined as f(x) = max(0,x)
