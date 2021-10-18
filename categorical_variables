@@ -1,1 +1,7 @@
 
+1. catboost
+2. one hot encoding
+3. target mean encoding
+4: variance to target mean encoding
+5: weight of evidance encoding
+6: frequency encoding
