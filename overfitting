@@ -33,5 +33,5 @@ Using F1 score metrics
 
 5: regularization 
 
-6: ensemble , bagging vs boosting
+6: ensemble: stacking, bagging vs boosting
 
