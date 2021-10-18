@@ -2,3 +2,7 @@ https://medium.com/analytics-vidhya/how-batch-normalization-and-relu-solve-vanis
 
 
 ReLU: ReLU (Rectified Linear Unit) is defined as f(x) = max(0,x)
+This is a widely used activation function, especially with Convolutional Neural networks. It is easy to compute and does not saturate and does not 
+cause the Vanishing Gradient Problem. It has just one issue of not being zero centred. It suffers from “dying ReLU” problem. Since the output is zero 
+for all negative inputs. It causes some nodes to completely die and not learn anything.
+Another problem with ReLU is of exploding the activations since it higher limit is, well, inf. This sometimes leads to unusable nodes.
