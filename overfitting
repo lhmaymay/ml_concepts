@@ -1,1 +1,3 @@
-https://elitedatascience.com/overfitting-in-machine-learning#how-to-detect
+https://elitedatascience.com/overfitting-in-machine-learning
+
+model doesn’t generalize well from our training data to unseen data.
