@@ -1,3 +1,6 @@
 https://elitedatascience.com/overfitting-in-machine-learning
 
 model doesn’t generalize well from our training data to unseen data.
+
+Signal: true underlying pattern in data that you want to learn
+Noise:
