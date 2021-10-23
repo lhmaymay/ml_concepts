@@ -6,4 +6,30 @@ link/edges/relationships
 1: Graph metrics 
     https://reference.wolfram.com/language/guide/GraphMeasures.html
     
+    Basic Measures
+VertexCount — the number of vertices
+EdgeCount — the number of edges
+Degree Measures
+VertexDegree — the number of edges for each vertex
+VertexInDegree — the number of in-edges for each vertex
+VertexOutDegree — the number of out-edges for each vertex
+Distance Measures
+GraphDistance — the length of the shortest path between two vertices
+GraphDistanceMatrix ▪  VertexEccentricity ▪  GraphRadius ▪  GraphDiameter
+Connectivity Measures
+VertexConnectivity — the number of vertex-independent paths between two vertices
+EdgeConnectivity — the number of edge-independent paths between two vertices
+Centrality Measures
+ClosenessCentrality — inverse average distance to every other vertex
+BetweennessCentrality — fraction of shortest paths that pass through the vertex
+DegreeCentrality ▪  EigenvectorCentrality ▪  KatzCentrality ▪  PageRankCentrality ▪  HITSCentrality ▪  RadialityCentrality ▪  StatusCentrality ▪  EdgeBetweennessCentrality
+Reciprocity and Transitivity
+GraphReciprocity — fraction of directed edges that are reciprocated
+GlobalClusteringCoefficient — fraction of length-two paths that are closed
+MeanClusteringCoefficient ▪  LocalClusteringCoefficient
+Homophily, Assortative Mixing, and Similarity
+GraphAssortativity — within-group connectivity minus between-group connectivity
+VertexCorrelationSimilarity — correlation similarity between actors
+MeanNeighborDegree ▪  MeanDegreeConnectivity ▪  VertexDiceSimilarity ▪  VertexJaccardSimilarity ▪  VertexCosineSimilarity
+    
     
