@@ -1,8 +1,22 @@
 
 https://builtin.com/data-science/recommender-systems
 
-3 major relationships
-
+3 major relationships:
 1: user-product
 2: product-product
 3: user-user
+
+
+
+data:
+User Behavior Data:
+
+Users behavior data is useful information about the engagement of the user on the product. It can be collected from ratings, clicks and purchase history.
+
+User Demographic Data:
+
+User demographic information is related to the user’s personal information such as age, education, income and location.
+
+Product Attribute Data:
+
+Product attribute data is information related to the product itself such as genre in case of books, cast in case of movies, cuisine in case of food.
