@@ -20,3 +20,8 @@ User demographic information is related to the user’s personal information suc
 Product Attribute Data:
 
 Product attribute data is information related to the product itself such as genre in case of books, cast in case of movies, cuisine in case of food.
+
+
+user explicit rating /review
+user implicit rating / click/view
+product similarity
